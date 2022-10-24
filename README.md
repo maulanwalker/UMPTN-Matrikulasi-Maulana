@@ -2,7 +2,8 @@
 
 ## Tech
 
-- HMTL Only
+- HMTL
+- CSS
 
 ## License
 
