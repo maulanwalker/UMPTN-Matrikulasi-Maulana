@@ -1,4 +1,4 @@
-# First Meeting Matriculation Task
+# First & Second Meeting Matriculation Task
 
 ## Tech
 
